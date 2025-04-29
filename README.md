@@ -8,3 +8,22 @@ Sistem ini dirancang untuk membantu mendiagnosis penyakit pada tanaman berdasark
 
 > Implementasi Lengkap: Tersedia versi pseudocode, Prolog, dan Python untuk menunjukkan cara kerja sistem.
 
+**Aturan Diagnosa**
+Nematoda akar: Jika daun menguning dan tanaman layu.
+Ulat grayak: Jika daun berlubang dan terdapat bercak hitam.
+Jamur daun: Jika daun menguning dan terdapat bercak hitam.
+Kumbang pemakan daun: Jika daun berlubang.
+Fusarium sp.: Jika tanaman layu, tidak ada bercak hitam, dan tidak ada daun berlubang.
+
+**Teknologi**
+Logika Proposisional: Untuk menentukan aturan diagnosa berdasarkan kombinasi gejala.
+Prolog: Implementasi aturan dalam logika deklaratif.
+Python: Program utama untuk interaksi pengguna dan diagnosa penyakit.
+
+**Cara Menjalankan**
+Prolog: Jalankan program dengan memasukkan gejala yang diminta.
+Python: Jalankan skrip Python untuk memulai diagnosa.
+
+**Penggunaan**
+Pilih dan masukkan gejala tanaman sesuai dengan yang diminta.
+Sistem akan memberikan diagnosis penyakit yang sesuai dengan kombinasi gejala.
